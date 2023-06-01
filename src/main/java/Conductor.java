@@ -4,6 +4,8 @@ public class Conductor {
 	private String licencia;
 	private int telefono;
 
+
+
 	public String getNombre() {
 		return this.nombre;
 	}
